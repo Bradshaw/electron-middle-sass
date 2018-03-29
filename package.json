@@ -1,6 +1,6 @@
 {
   "name": "electron-middle-sass",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compile .sass and .scss files to .css as they are requested",
   "repository": {
     "type": "git",
@@ -19,5 +19,6 @@
   "dependencies": {
     "electron-middle": "^1.0.1",
     "node-sass": "^4.8.3"
-  }
+  },
+  "keywords": ["electron", "middleware", "renderer", "compiler", "file", "module", "utility", "sass", "scss", "css", "style", "stylesheets"]
 }
