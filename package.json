@@ -1,6 +1,6 @@
 {
   "name": "electron-middle-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile .sass and .scss files to .css as they are requested",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "author": "Kevin \"Gaeel\" Bradshaw-Rodriguez <gaeel@nanoleptic.net> (https://spaceshipsin.space)",
   "license": "ISC",
   "dependencies": {
-    "electron-middle": "^1.0.0",
+    "electron-middle": "^1.0.1",
     "node-sass": "^4.8.3"
   }
 }
