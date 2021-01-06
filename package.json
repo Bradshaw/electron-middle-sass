@@ -18,7 +18,20 @@
   "license": "ISC",
   "dependencies": {
     "electron-middle": "^1.0.1",
-    "node-sass": "^4.8.3"
+    "node-sass": "^5.0.0"
   },
-  "keywords": ["electron", "middleware", "renderer", "compiler", "file", "module", "utility", "sass", "scss", "css", "style", "stylesheets"]
+  "keywords": [
+    "electron",
+    "middleware",
+    "renderer",
+    "compiler",
+    "file",
+    "module",
+    "utility",
+    "sass",
+    "scss",
+    "css",
+    "style",
+    "stylesheets"
+  ]
 }
